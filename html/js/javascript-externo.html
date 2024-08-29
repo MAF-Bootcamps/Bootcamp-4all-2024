@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Externo</title>
+
+    <style>
+      .container {
+        width: 250px;
+        height: 250px;
+        background-color: tomato;
+        color: #fff;
+        margin: 10px;
+      }
+
+      .btn {
+        height: 30px;
+        background-color: blue;
+        color: #fff;
+        border-color: blue;
+      }
+
+      .btn:disabled {
+        background-color: rgb(117, 117, 248);
+        border-color: rgb(117, 117, 248);
+      }
+
+      .btn-arredondado {
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Externo</h1>
+
+    <div id="container" class="container">Primeiro elemento</div>
+    <div class="container">Segundo elemento</div>
+    <div class="container">Terceiro elemento</div>
+
+    <button class="btn btn-erro">Um botão</button>
+
+    <hr />
+
+    <input type="password" id="senha" value="123456" />
+    <button class="btn" id="mostrarSenha">Mostar Senha</button>
+
+    <script type="text/javascript" src="externo.js"></script>
+  </body>
+</html>

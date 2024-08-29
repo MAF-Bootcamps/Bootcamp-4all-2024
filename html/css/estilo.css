@@ -1,0 +1,74 @@
+h1 {
+    color: blue;
+    font-weight: normal;
+    font-family: Roboto, Helvetica;
+    font-weight: 100;
+}
+
+p {
+    font-size: 20px;
+}
+
+section p strong {
+    color: red;
+}
+
+strong, em {
+    font-size: 26px;
+}
+
+strong {
+    color: green;
+}
+
+input[required] {
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+}
+
+input[type="email"] {
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#principal {
+    text-align: center;
+}
+
+.btn {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.btn-azul {
+    background-color: blue;
+    color: #fff;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn-azul:hover {
+    background-color: #020275;
+}
+
+input:required {
+    background-color: #ddd;
+}
+
+.circulo {
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+}
+
+.circulo p {
+    margin: 10px;
+}
