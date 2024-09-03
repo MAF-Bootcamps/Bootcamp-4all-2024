@@ -8,6 +8,7 @@ Repositório criado para documentar os exemplos e exercícios durante as aulas
 - [Documentação Oficial](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Acessibilidade](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)
 - [Validação de Formulários](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Convite do Classroom](https://classroom.google.com/c/Njg1MjM4NzQwNjc3?cjc=4yolpnj)
 - [Exercícios](https://classroom.google.com/w/Njg1MjM4NzQwNjc3/tc/Njg1MzI1NDA5ODYz)
 
 ## CSS
