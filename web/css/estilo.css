@@ -1,74 +1,60 @@
 h1 {
-    color: blue;
-    font-weight: normal;
-    font-family: Roboto, Helvetica;
-    font-weight: 100;
+  color: blue;
+  font-weight: normal;
+  font-family: Roboto, Helvetica;
 }
 
 p {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 section p strong {
-    color: red;
+  color: red;
 }
 
-strong, em {
-    font-size: 26px;
+strong,
+em {
+  font-size: 26px;
 }
 
 strong {
-    color: green;
+  color: green;
 }
 
-input[required] {
-    border-color: tomato;
-    border-width: 2px;
-    border-style: solid;
-}
-
-input[type="email"] {
-    border-color: blue;
-    border-width: 2px;
-    border-style: solid;
-}
-
-#principal {
-    text-align: center;
+#titulo {
+  text-align: center;
 }
 
 .btn {
-    font-size: 16px;
-    padding: 10px;
-    border-radius: 4px;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 4px;
 }
 
 .btn-azul {
-    background-color: blue;
-    color: #fff;
-}
-
-.text-center {
-    text-align: center;
+  background-color: blue;
+  color: #ffffff;
 }
 
 .btn-azul:hover {
-    background-color: #020275;
+  background-color: #020275;
+  cursor: pointer;
 }
 
 input:required {
-    background-color: #ddd;
+  border-color: red;
+  border-width: 5px;
 }
 
 .circulo {
-    width: 200px;
-    height: 200px;
-    background-color: tomato;
-    border-radius: 50%;
-    text-align: center;
-    padding: 20px;
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  text-align: center;
+  color: #fff;
+  border-radius: 50%;
 }
 
 .circulo p {
-    margin: 10px;
+  margin: 10px;
 }
