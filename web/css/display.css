@@ -1,23 +1,31 @@
 .quadrado {
-    width: 250px;
-    height: 250px;
-    margin: 10px;
-    background-color: tomato;
-    display: block;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  background-color: tomato;
+  display: block;
+}
+
+.quadrado-em-linha-bloco {
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  background-color: tomato;
+  display: inline-block;
 }
 
 .quadrado-em-linha {
-    width: 250px;
-    height: 250px;
-    margin: 10px;
-    background-color: tomato;
-    display: inline-block;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  background-color: tomato;
+  display: inline;
 }
 
 .invisivel {
-    display: none;
+  display: none;
 }
 
 .flutuar-direita {
-    float: right;
+  float: right;
 }
